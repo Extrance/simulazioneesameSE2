@@ -4,6 +4,7 @@
   "description": "",
   "main": "string.js",
   "scripts": {
+    "start":"node string.js"
     "test": "''"
   },
   "author": "",
